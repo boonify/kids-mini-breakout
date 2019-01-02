@@ -1,0 +1,28 @@
+{
+  "name": "kids-mini-breakout",
+  "version": "0.1.0",
+  "description": "A clone of the 1976 arcade classic, Breakout. Created in JavaScript using the open-source HTML5 game framework, Phaser",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boonify/kids-mini-breakout.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "svg"
+  ],
+  "author": "boonify",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boonify/kids-mini-breakout/issues"
+  },
+  "homepage": "https://github.com/boonify/kids-mini-breakout#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
